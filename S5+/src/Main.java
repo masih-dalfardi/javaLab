@@ -2,7 +2,7 @@
  * this class is for making circle and rectangle and triangle
  * and then add them to paint object and at last print and draw
  * all shapes to check the classes
- * @author Mohammad Javad Zandiyeh
+ * @author mimdaal
  * @version 0.1
  */
 public class Main {
