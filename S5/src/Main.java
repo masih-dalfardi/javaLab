@@ -3,7 +3,7 @@
  * and add some shapes to it and see how the methods of
  * paint class works
  * @version 0.0
- * @author Mohammad Javad Zandiyeh
+ * @author mimdaal
  */
 public class Main {
 
