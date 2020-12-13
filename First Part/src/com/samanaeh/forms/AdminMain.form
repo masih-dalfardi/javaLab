@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<form xmlns="http://www.intellij.com/uidesigner/form/" version="1" bind-to-class="com.samanaeh.forms.AdminMain">
+  <grid id="27dc6" binding="panel1" default-binding="true" layout-manager="GridLayoutManager" row-count="4" column-count="2" same-size-horizontally="false" same-size-vertically="false" hgap="-1" vgap="-1">
+    <margin top="0" left="0" bottom="0" right="0"/>
+    <constraints>
+      <xy x="20" y="20" width="500" height="400"/>
+    </constraints>
+    <properties/>
+    <border type="none"/>
+    <children>
+      <component id="eb2e4" class="javax.swing.JButton" binding="buttonChangeusername">
+        <constraints>
+          <grid row="0" column="1" row-span="1" col-span="1" vsize-policy="0" hsize-policy="3" anchor="0" fill="1" indent="0" use-parent-layout="false"/>
+        </constraints>
+        <properties>
+          <text value="تغییر نام کاربری و رمز عبور"/>
+        </properties>
+      </component>
+      <component id="b31ac" class="javax.swing.JButton" binding="ButtonSeeStudents">
+        <constraints>
+          <grid row="1" column="1" row-span="1" col-span="1" vsize-policy="0" hsize-policy="3" anchor="0" fill="1" indent="0" use-parent-layout="false"/>
+        </constraints>
+        <properties>
+          <text value="مشاهده لیست دانشجویان"/>
+        </properties>
+      </component>
+      <component id="83bf8" class="javax.swing.JButton" binding="buttonSeeMasters">
+        <constraints>
+          <grid row="1" column="0" row-span="1" col-span="1" vsize-policy="0" hsize-policy="3" anchor="0" fill="1" indent="0" use-parent-layout="false"/>
+        </constraints>
+        <properties>
+          <text value="مشاهده لیست استادان"/>
+        </properties>
+      </component>
+      <component id="80408" class="javax.swing.JButton" binding="buttonFood">
+        <constraints>
+          <grid row="0" column="0" row-span="1" col-span="1" vsize-policy="0" hsize-policy="3" anchor="0" fill="1" indent="0" use-parent-layout="false"/>
+        </constraints>
+        <properties>
+          <text value="تنظیم برنامه غذایی هفته جاری"/>
+        </properties>
+      </component>
+      <component id="6d9ee" class="javax.swing.JButton" binding="ButtonListClasses">
+        <constraints>
+          <grid row="2" column="1" row-span="1" col-span="1" vsize-policy="0" hsize-policy="3" anchor="0" fill="1" indent="0" use-parent-layout="false"/>
+        </constraints>
+        <properties>
+          <text value="مشاهده لیست کلاس های ارایه شده"/>
+        </properties>
+      </component>
+      <component id="2a78c" class="javax.swing.JButton" binding="buttonAddStudent">
+        <constraints>
+          <grid row="2" column="0" row-span="1" col-span="1" vsize-policy="0" hsize-policy="3" anchor="0" fill="1" indent="0" use-parent-layout="false"/>
+        </constraints>
+        <properties>
+          <text value="افزودن دانشجوی جدید"/>
+        </properties>
+      </component>
+      <component id="9a199" class="javax.swing.JButton" binding="buttonAddMaster">
+        <constraints>
+          <grid row="3" column="1" row-span="1" col-span="1" vsize-policy="0" hsize-policy="3" anchor="0" fill="1" indent="0" use-parent-layout="false"/>
+        </constraints>
+        <properties>
+          <text value="افزودن استاد جدید"/>
+        </properties>
+      </component>
+      <component id="c05a1" class="javax.swing.JButton" binding="buttonClose">
+        <constraints>
+          <grid row="3" column="0" row-span="1" col-span="1" vsize-policy="0" hsize-policy="3" anchor="0" fill="1" indent="0" use-parent-layout="false"/>
+        </constraints>
+        <properties>
+          <text value="خروج"/>
+        </properties>
+      </component>
+    </children>
+  </grid>
+</form>
