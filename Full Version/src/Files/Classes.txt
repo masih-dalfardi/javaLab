@@ -1,0 +1,2 @@
+﻿name=کلاس1;countvahed=3;capasity=20;date=شنبه 8 تا 10;masterusername=samiei;
+name=کلاس2;countvahed=4;capasity=40;date=شنبه 8 تا 10;masterusername=samiei;

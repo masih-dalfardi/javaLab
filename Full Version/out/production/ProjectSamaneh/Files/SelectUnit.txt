@@ -1,0 +1,3 @@
+﻿studentusername=kia;masterusername=samiei;classname=کلاس1;score=15;
+studentusername=kia;masterusername=samiei;classname=کلاس2;score=20;
+studentusername=kia2;masterusername=samiei;classname=کلاس2;score=null;

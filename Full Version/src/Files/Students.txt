@@ -1,0 +1,2 @@
+﻿name=پارسا تهرانی;username=kia;password=12345678;studentnumber=111;course=ببب;credit=1799;reservefood=100100000000000010;
+name=سروش ایرانی;username=kia2;password=12345678;studentnumber=22;course=هوافضا;credit=0;reservefood=000000000000000000000;
